@@ -5,10 +5,12 @@ Editieren sie diese Datei, wenn ihnen langweilig ist.
 
 *Achtung: Bitte nicht editiern !!!!*
 
+<ul>
 ##Liste der Edelgase
-<p>Helium</p>
-*Neon
-*Argon
-*Krypton
-*Xenon
+<li>Helium</li>
+<li>Neon</li>
+<li>Argon</li>
+<li>Krypton</li>
+<li>Xenon</li>
+</ul>
   
