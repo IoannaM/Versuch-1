@@ -6,9 +6,9 @@ Editieren sie diese Datei, wenn ihnen langweilig ist.
 *Achtung: Bitte nicht editiern !!!!*
 
 ##Liste der Edelgase
-  /*Helium
-  *Neon
-  *Argon
-  *Krypton
-  *Xenon
+*Helium
+*Neon
+*Argon
+*Krypton
+*Xenon
   
