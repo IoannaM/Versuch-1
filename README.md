@@ -5,6 +5,10 @@ Editieren sie diese Datei, wenn ihnen langweilig ist.
 
 *Achtung: Bitte nicht editiern !!!!*
 
-
-##ABC
+##Liste der Edelgase
+  *Helium
+  *Neon
+  *Argon
+  *Krypton
+  *Xenon
   
