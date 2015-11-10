@@ -6,7 +6,7 @@ Editieren sie diese Datei, wenn ihnen langweilig ist.
 *Achtung: Bitte nicht editiern !!!!*
 
 <ul>
-<h1>Liste der Edelgase</h1>
+<h3>Liste der Edelgase</h1>
 <li>Helium</li>
 <li>Neon</li>
 <li>Argon</li>
